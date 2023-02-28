@@ -1,0 +1,10 @@
+diff --git a/chapter1.txt b/chapter1.txt
+index 67c62fe..71a73b3 100644
+--- a/chapter1.txt
++++ b/chapter1.txt
+@@ -1 +1 @@
+-nothing just trying to apply patch
++i am best of the worst. maybe alien of all humans
+diff --git a/files.patch b/files.patch
+deleted file mode 100644
+index e69de29..0000000
